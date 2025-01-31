@@ -1,7 +1,6 @@
 # Olalekan Babalola
 
 [![Visitors](https://komarev.com/ghpvc/?username=olalekan66&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/olalekan66)
-[![X Profile](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/0lalek4n)
 
 ## Professional Profile
 
@@ -47,7 +46,7 @@ Building core competencies through structured learning:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olalekanvictor66@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olalekanvictor66@gmail.com)
 &nbsp;&nbsp;&nbsp;
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/0lalek4n)
 &nbsp;&nbsp;&nbsp;
@@ -57,4 +56,4 @@ Building core competencies through structured learning:
 
 ---
 
-Engineering precision through fundamental web technologies and algorithmic analysis
+Pioneering innovative solutions at the intersection of machine learning, full-stack engineering, and data-driven insights.
