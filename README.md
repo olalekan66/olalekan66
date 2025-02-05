@@ -31,6 +31,7 @@ Building core competencies through structured learning:
 | **[Calculator](https://github.com/olalekan66/calculator)** | Responsive calculation interface | JavaScript, CSS Flexbox |
 | **[Sketch Pad](https://github.com/olalekan66/sketch-pad)** | Interactive drawing application | JavaScript, CSS Flexbox |
 | **[Signup Form](https://github.com/olalekan66/signup-form)** | Client-side validation system | HTML5, CSS Flexbox |
+| **[Admin Dashboard](https://olalekan66.github.io/dashboard/)** | Admin dashboard made with CSS Grid | HTML5, CSS |
 | **Prime Number Analyzer** (Coming Soon) | Simple algorithm for finding prime factors and prime divisors | Python, Mathematics |
 
 ## Development Metrics
